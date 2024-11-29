@@ -1,0 +1,9 @@
+streamlit==1.15.0
+numpy==1.24.0
+opencv-python==4.7.0.72
+Pillow==9.4.0
+text2emotion==0.0.8
+deepface==0.0.78
+textblob==0.15.3
+plotly==5.10.0
+streamlit-option-menu==0.3.1
